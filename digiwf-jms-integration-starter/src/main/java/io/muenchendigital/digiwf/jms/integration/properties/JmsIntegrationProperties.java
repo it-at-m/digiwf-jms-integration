@@ -14,14 +14,5 @@ import javax.validation.constraints.NotBlank;
 public class JmsIntegrationProperties {
 
     @NotBlank
-    private String url;
-
-    @NotBlank
-    private String accessKey;
-
-    @NotBlank
-    private String secretKey;
-
-    @NotBlank
-    private String bucketName;
+    private String placeholder;
 }
