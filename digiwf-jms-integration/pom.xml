@@ -23,10 +23,6 @@
             <artifactId>spring-jms</artifactId>
             <version>5.3.16</version>
         </dependency>
-        <dependency>
-            <groupId>javax.validation</groupId>
-            <artifactId>validation-api</artifactId>
-        </dependency>
     </dependencies>
 
 </project>
